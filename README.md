@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajeep Gadal
+Hey, there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rajeep Gadal
 ====================================================================================================================================
 
-Currently Learning MERN-Stack
+Currently learning Full-Stack Development
 --------------------------------------------------
 
 I love coding and designing!!
 
 * 🌍  I'm based in Chitwan, Nepal
 * ✉️  You can contact me at [rajeepgadal@gmail.com](mailto:rajeepgadal@gmail.com)
-* 🧠  I'm learning JS, React, Nodejs
+* 🧠  I'm learning Reactjs, Nodejs, Expressjs...
 * ⚡  I code with the enthusiasm of a puppy discovering a new toy!
 
 ### Skills
